@@ -1,0 +1,12 @@
+beautifulsoup4==4.9.3
+certifi==2021.5.30
+charset-normalizer==2.0.2
+click==8.0.1
+commonmark==0.9.1
+idna==3.2
+mdpdf==0.0.17
+pdfkit==0.6.1
+PyMuPDF==1.18.15
+requests==2.26.0
+soupsieve==2.2.1
+urllib3==1.26.6
